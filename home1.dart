@@ -10,6 +10,10 @@ void main() => runApp(
           body: Center(
             child: Text('Splash Page'),
           ),
+          floatingActionButton: FloatingActionButton(
+            onPressed: () {},
+            child: Text('click'),
+          ),
         ),
       ),
     );
