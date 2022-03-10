@@ -6,3 +6,8 @@
 Network Image
 
 ![image](https://user-images.githubusercontent.com/61565391/157658011-3bb3b7e7-736b-49d2-8b63-f6f40fe46019.png)
+
+
+Asset Image
+
+![image](https://user-images.githubusercontent.com/61565391/157661101-195668cd-0316-4348-ac75-2b21c1c2a4df.png)
