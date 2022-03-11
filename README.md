@@ -27,3 +27,6 @@ Columns
 
 Expanded
 ![image](https://user-images.githubusercontent.com/61565391/157899451-5df9287c-7097-422d-a86a-cb6b182b82c9.png)
+
+Card
+![image](https://user-images.githubusercontent.com/61565391/157912410-faf3f683-f842-41d3-9279-fa88bec9a7a6.png)
