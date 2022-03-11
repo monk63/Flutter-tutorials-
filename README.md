@@ -22,4 +22,6 @@ Conatainer and Padding
 Rows
 ![image](https://user-images.githubusercontent.com/61565391/157757553-8eef16de-1615-4a70-852d-041daae5a507.png)
 
+Columns
+![image](https://user-images.githubusercontent.com/61565391/157890990-99cae1d9-4454-43ca-8261-dd691c615386.png)
 
