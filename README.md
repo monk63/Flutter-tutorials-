@@ -25,3 +25,5 @@ Rows
 Columns
 ![image](https://user-images.githubusercontent.com/61565391/157890990-99cae1d9-4454-43ca-8261-dd691c615386.png)
 
+Expanded
+![image](https://user-images.githubusercontent.com/61565391/157899451-5df9287c-7097-422d-a86a-cb6b182b82c9.png)
