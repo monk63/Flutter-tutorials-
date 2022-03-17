@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_phone_direct_caller/flutter_phone_direct_caller.dart';
-//https://pub.dev/packages/flutter_phone_direct_caller/example
+//source: https://pub.dev/packages/flutter_phone_direct_caller/example
 
 void main() => runApp(const MyApp());
 
@@ -15,10 +15,13 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   final TextEditingController _numberCtrl = TextEditingController();
 
+  // TextEditingController A controller for an editable text field.
+
+  //It is a method called the first time a stateful widget is inserted in the widget-tree
   @override
   void initState() {
     super.initState();
-    _numberCtrl.text = "0209535915";
+    _numberCtrl.text = "0209535915"; //set phone number here
   }
 
   @override
@@ -26,7 +29,8 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('Phone Call App'),
+          backgroundColor: Colors.red,
         ),
         body: Column(
           children: <Widget>[
@@ -43,7 +47,8 @@ class _MyAppState extends State<MyApp> {
               onPressed: () async {
                 FlutterPhoneDirectCaller.callNumber(_numberCtrl.text);
               },
-            )
+              style: TextButton.styleFrom(backgroundColor: Colors.red),
+            ),
           ],
         ),
       ),
